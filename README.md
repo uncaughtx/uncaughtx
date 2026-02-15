@@ -29,8 +29,21 @@ fact: i refactor things i don't own (then regret it)
 
 <div align="center">
 
-![Apache Hive](https://img.shields.io/badge/-%23FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black "Apache Hive") ![Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white "Java") ![Apache Hadoop](https://img.shields.io/badge/-%2365CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black "Apache Hadoop") ![MySQL](https://img.shields.io/badge/-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white "MySQL") ![Apache Airflow](https://img.shields.io/badge/-%23017CEE.svg?style=for-the-badge&logo=Apache%20Airflow&logoColor=white "Apache Airflow") ![Datadog](https://img.shields.io/badge/-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white "Datadog") ![Ansible](https://img.shields.io/badge/-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white "Ansible") ![Bash](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white "Bash")
-![Python](https://img.shields.io/badge/-%233668A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54 "Python") ![Jenkins](https://img.shields.io/badge/-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white "Jenkins") ![NumPy](https://img.shields.io/badge/-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white "NumPy") ![Pandas](https://img.shields.io/badge/-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white "Pandas") ![Kotlin](https://img.shields.io/badge/-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white "Kotlin") ![OpenTelemetry](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white "OpenTelemetry") ![Apache Kafka](https://img.shields.io/badge/-%23230F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white "Apache Kafka")
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-230F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 </div>
 
